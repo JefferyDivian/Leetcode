@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+env/
+venv/
+.leetcode/
+.leetcode-env/
+leetcode/
+
+# VS Code
+.vscode/
+
+# Pytest
+.pytest_cache/
+.coverage
+
+# Environment
+*.env
+.env*
+
+# OS
+.DS_Store
+Thumbs.db
